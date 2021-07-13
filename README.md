@@ -4,17 +4,18 @@
 
 Group members :
 
-Cuthbert musengi r178522r
+R178497R Witness Chiminya
+R178504Y Talent Maritinyu
+R178510T Persistent G Ticharwa
 
-Lovemore mbizo   R1710991
+streamlit deployment 
+INTERFACE LINK
 
-Norest hoko r178490p
-
-deployed using streamlit 
-## link to project  
 
 https://share.streamlit.io/mrh101/stock_prediction/main/app.py
 
-## link to video
+VIDEO LINK
 
-https://drive.google.com/file/d/1LOgnJSw7lRd1NG5oJHRxPZUpgRIoyS-R/view?usp=sharing
+
+COLAB LINK
+https://colab.research.google.com/drive/1WO4_ODDn5zzcd5mD1OMG181ya8ahEGcA?usp=sharing
