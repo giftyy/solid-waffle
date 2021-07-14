@@ -1,6 +1,4 @@
-# stock_prediction
-
-## stock prediction using lstm
+# stock prediction using lstm
 
 Group members :
 
@@ -11,9 +9,7 @@ R178510T Persistent G Ticharwa
 streamlit deployment 
 INTERFACE LINK
 
-
-https://share.streamlit.io/mrh101/stock_prediction/main/app.py
-
+https://share.streamlit.io/giftyy/solid-waffle/main/app.py
 VIDEO LINK
 
 
